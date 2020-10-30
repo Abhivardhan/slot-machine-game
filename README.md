@@ -1,3 +1,2 @@
 # slot-machine-game
-
-https://abhivardhan.github.io/slot-machine-game/
+URL: https://abhivardhan.github.io/slot-machine-game/
